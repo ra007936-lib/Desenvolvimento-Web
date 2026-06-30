@@ -1,0 +1,20 @@
+section {
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.secoes1 {
+    background-color: black;
+    color: blue;
+}
+
+.secoes2 {
+    background-color: white;
+    color: black;
+}
+
+.secoes3 {
+    background-color: blue;
+    color: red;
+}

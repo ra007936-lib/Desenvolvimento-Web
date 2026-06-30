@@ -1,0 +1,25 @@
+body {
+    background-color: #FAF6EF;
+    font-family: sans-serif;
+}
+
+.jogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#botaoTentar {
+    background-color: #FF5A36;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#botaoTentar:houver {
+    background-color: #e84a28;
+}
